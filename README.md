@@ -3,7 +3,6 @@ This repository includes the solution developed by Mind Install team for KFUPM c
 
 # Our Solution
 Our solution is a react application that provides the following:
-
 Perfect solutions for those seeking a roommate. Our user-friendly platform makes it easy for users to search for compatible roommates based on shared interests, lifestyle, and location of building. Simply create an account, fill out your profile, and start browsing through our extensive database of potential roommates. You can communicate with potential matches using contact information, and our intuitive search tools will help you find the perfect fit. With our website, finding a roommate has never been easier!
 
 # Project Set Up
