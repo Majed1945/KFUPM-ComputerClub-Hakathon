@@ -1,5 +1,5 @@
 # KFUPM Computer Club Hackathon
-Demo: https://calip.io/hpANyrnb#JxKVvDk1<br> expire on 3/6/2023
+Demo: https://calip.io/hpANyrnb#JxKVvDk1    expires on 3/6/2023 <br> 
 This repository includes the solution developed by Mind Install team for KFUPM computer club hackathon to find innovative solutions for problems affecting students ‘life in KFUPM. 
 
 # Our Solution
